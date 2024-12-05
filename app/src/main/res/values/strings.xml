@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dialog</string>
+    <string name="choose">Выбрать ингредиенты для пиццы</string>
+    <string name="close">Выйти из приложения</string>
+</resources>
